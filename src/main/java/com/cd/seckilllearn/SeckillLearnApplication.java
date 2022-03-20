@@ -10,6 +10,7 @@ public class SeckillLearnApplication {
         SpringApplication.run(SeckillLearnApplication.class, args);
         System.out.println("hello git");
         System.out.println("hello dev");
+        System.out.println("dev分支修改");
     }
 
 }
