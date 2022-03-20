@@ -9,6 +9,7 @@ public class SeckillLearnApplication {
     public static void main(String[] args) {
         SpringApplication.run(SeckillLearnApplication.class, args);
         System.out.println("hello git");
+        System.out.println("hello dev");
     }
 
 }
