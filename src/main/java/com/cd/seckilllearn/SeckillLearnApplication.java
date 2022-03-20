@@ -12,6 +12,7 @@ public class SeckillLearnApplication {
         System.out.println("hello dev");
         System.out.println("master update");
         System.out.println("dev分支修改");
+        System.out.println("aaaaaaaaaaa");
     }
 
 }
